@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AffirmationsApp</string>
+    <string name="affirmation1">“Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely.”</string>
+    <string name="affirmation2">“Don\'t be pushed around by the fears in your mind. Be led by the dreams in your heart.”</string>
+    <string name="affirmation3">“Instead of worrying about what you cannot control, shift your energy to what you can create.”</string>
+    <string name="affirmation4">“Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.”</string>
+    <string name="affirmation5">“Be mindful. Be grateful. Be positive. Be true. Be kind.”</string>
+    <string name="affirmation6">“Accept yourself, love yourself, and keep moving forward. If you want to fly, you have to give up what weighs you down.”</string>
+    <string name="affirmation7">“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”</string>
+    <string name="affirmation8">“Live the Life of Your Dreams: Be brave enough to live the life of your dreams according to your vision and purpose instead of the expectations and opinions of others.”</string>
+    <string name="affirmation9">“Don’t waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.”</string>
+    <string name="affirmation10">“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.”</string>
+</resources>
+
