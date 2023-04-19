@@ -6,12 +6,14 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.Image
-import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.Card
 import androidx.compose.material.MaterialTheme
-import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
@@ -35,7 +37,7 @@ class MainActivity : ComponentActivity() {
 
 
 @Composable
-private fun AffirmationList(affirmationList: List<Affirmation>, modifier: Modifier = Modifier) {
+private fun AffirmationList(affirmationList: List<Affirmation>) {
     LazyColumn {
         items(affirmationList) { affirmation ->
             AffirmationCard(affirmation)

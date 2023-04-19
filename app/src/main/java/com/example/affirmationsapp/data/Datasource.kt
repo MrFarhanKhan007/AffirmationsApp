@@ -1,8 +1,9 @@
 import com.example.affirmationsapp.R
 
 class Datasource() {
+
     fun loadAffirmations(): List<Affirmation> {
-        return listOf<Affirmation>(
+        return listOf(
             Affirmation(R.string.affirmation1, R.drawable.image11),
             Affirmation(R.string.affirmation2, R.drawable.image22),
             Affirmation(R.string.affirmation3, R.drawable.image33),
